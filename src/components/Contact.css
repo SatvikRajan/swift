@@ -1,0 +1,36 @@
+.contact{
+    padding-top: 60px;
+    padding-bottom: 600px;
+    background: url('../images/contact.png') !important;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    background-position: center center;
+    position: relative;
+}
+.contactelement{
+    padding: 0 30px;
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    position: relative;
+    border-radius: 0px 37px 0px 0px;
+    border: 1px solid #FFF;
+    background: rgba(0, 42, 84, 0.93);
+}
+#ques{
+    margin: 20px 60px;
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 161.2%; 
+}
+#quesdes{
+    text-align: right;
+    color: #FFF;
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 133.2%; /* 42.624px */
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
